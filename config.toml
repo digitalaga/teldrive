@@ -1,0 +1,9 @@
+[db]
+data-source = "postgres://<db username>:<db password>@<db host>/<db name>"
+
+[jwt]
+secret = "abcd"
+
+[tg]
+app-id = 
+app-hash = "fwfwfwf"
